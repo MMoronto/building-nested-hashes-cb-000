@@ -29,4 +29,3 @@ def bonus
   epic_tragedy
 end
 
-epic_tragedy
